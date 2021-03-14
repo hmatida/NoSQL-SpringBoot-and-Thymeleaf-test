@@ -7,8 +7,7 @@ public class HomeController {
 
 
     /**
-     *Retorna a view index com os dados dos filmes alugados e outros do header
-     * atualizados.
+     * Retorna a index. Homepage
      * @return ModelAndView.
      */
     @GetMapping("/")
